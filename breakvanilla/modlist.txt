@@ -8,6 +8,7 @@ Bamboo Everything
 Boat Item View
 Bobby
 Botany Pots
+Botany Trees (Addon)
 C2ME Fabric
 Carry On
 Cinderscapes
