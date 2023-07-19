@@ -10,7 +10,7 @@ C2ME Fabric
 Cinderscapes
 Contunuity
 EMI
-EvergreenHUD
+~~EvergreenHUD~~ - Cut (Out of Date)
 Fabric API
 Iris Shaders
 Just Enough Items
