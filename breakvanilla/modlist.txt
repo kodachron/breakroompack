@@ -31,6 +31,7 @@ Just Enough Items
 Krypton
 Lambda Better Grass
 Lambdynamiclights
+Lithium
 Login Protection
 Macaw's Bridges
 Macaw's Fences and Walls
@@ -50,6 +51,7 @@ Replay Voice Chat (Addon)
 Simple Discord Rich Presence
 Sodium
 Sound Physics Remastered
+Starlight
 Mod Menu (Dependency)
 Cloth Config (Dependency)
 Tax Free Levels
