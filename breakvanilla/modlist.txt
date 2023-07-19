@@ -2,6 +2,7 @@ Fabric
 
 Mods:
 AppleSkin
+Distant Horizons
 Sound Physics Remastered
   Mod Menu (Dependency)
   Cloth Config (Dependency)
