@@ -1,36 +1,69 @@
-Fabric 1.20.3
+Fabric 1.20.1
 
 Mods:
 3D Skin Layers
 Ambient Sounds
 AppleSkin
+Bamboo Everything
 Boat Item View
 Bobby
+Botany Pots
 C2ME Fabric
+Carry On
 Cinderscapes
-Contunuity
+Chunky Pregenerator
+Chimes
+Continuity
+Croptopia
+Culinary Construct
+Diagonal Fences
+Double Doors
 EMI
-~~EvergreenHUD~~ - Cut (Out of Date)
-Fabric API
+Farmer's Delight
+Fastload
+Ferrite Core
+Handcrafted
+Harvest With Ease
+Immersive Portals
 Iris Shaders
 Just Enough Items
+Krypton
 Lambda Better Grass
-Physics Mod
-Promenade
+Lambdynamiclights
+Login Protection
+Macaw's Bridges
+Macaw's Fences and Walls
+Macaw's Lights and Lamps
+Macaw's Roofs
+Macaw's Trapdoors
+Mod Menu
 Oh The Biomes You'll Go
+Physics Mod
+Ping Wheel
+Plushie Mod
+Promenade
+Rechiseled
+Repurposed Structures (Fabric)
 Replay Mod
-  Replay Voice Chat (Addon)
-Simple Voice Chat
+Replay Voice Chat (Addon)
+Simple Discord Rich Presence
 Sodium
 Sound Physics Remastered
-  Mod Menu (Dependency)
-  Cloth Config (Dependency)
+Mod Menu (Dependency)
+Cloth Config (Dependency)
 Tax Free Levels
 Terralith
-  Terralith Biome Saplings (Addon)
+Terralith Biome Saplings (Addon)
 Terrestria
 Traverse
 Vanilla Refresh (Datapack)
 Visuality
 Voice Chat Interaction
 Woods and Mires
+YUNG's Better Dungeons
+YUNG's Better Mineshafts
+YUNG's Better Ocean Monuments
+YUNG's Better Strongholds
+YUNG's Better Witch Huts
+YUNG's Bridges
+YUNG's Extras
