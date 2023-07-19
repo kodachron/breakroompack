@@ -18,12 +18,14 @@ Culinary Construct
 Diagonal Fences
 Double Doors
 EMI
+EMI Loot
 Farmer's Delight
 Fastload
 Ferrite Core
 Handcrafted
 Harvest With Ease
 Immersive Portals
+Indium
 Iris Shaders
 Just Enough Items
 Krypton
