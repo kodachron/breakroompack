@@ -12,6 +12,8 @@ Iris Shaders
 Lambda Better Grass
 Physics Mod
 Oh The Biomes You'll Go
+Replay Mod
+  Replay Voice Chat (Addon)
 Simple Voice Chat
 Sodium
 Sound Physics Remastered
@@ -21,3 +23,4 @@ Terralith
   Terralith Biome Saplings (Addon)
 Vanilla Refresh (Datapack)
 Visuality
+Voice Chat Interaction
