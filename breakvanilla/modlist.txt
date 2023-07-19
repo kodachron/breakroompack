@@ -31,6 +31,8 @@ Immersive Portals
 Indium
 Iris Shaders
 Just Enough Items
+Just Enough Professions
+Just Enough Resources
 Krypton
 Lambda Better Grass
 Lambdynamiclights
