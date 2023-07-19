@@ -1,11 +1,23 @@
 Fabric 1.20.3
 
 Mods:
+3D Skin Layers
 AppleSkin
-Distant Horizons
+Bobby
+C2ME Fabric
+Contunuity
+EvergreenHUD
+Fabric API
+Iris Shaders
+Lambda Better Grass
+Physics Mod
+Oh The Biomes You'll Go
 Simple Voice Chat
+Sodium
 Sound Physics Remastered
   Mod Menu (Dependency)
   Cloth Config (Dependency)
 Terralith
   Terralith Biome Saplings (Addon)
+Vanilla Refresh (Datapack)
+Visuality
