@@ -13,6 +13,7 @@ C2ME Fabric
 Carry On
 Cinderscapes
 Chunky Pregenerator
+Cloth Config API
 Continuity
 Croptopia
 Culinary Construct
