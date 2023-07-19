@@ -5,3 +5,5 @@ AppleSkin
 Sound Physics Remastered
   Mod Menu (Dependency)
   Cloth Config (Dependency)
+Terralith
+  Terralith Biome Saplings (Addon)
