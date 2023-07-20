@@ -47,6 +47,7 @@ Mod Menu
 Oh The Biomes You'll Go - (NOT UPDATED TO 1.20)
 Physics Mod
 Ping Wheel
+Pingslist
 Plushie Mod
 Promenade
 Rechiseled
